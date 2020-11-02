@@ -1,0 +1,10 @@
+# action.yml
+name: 'PM PHP CS'
+description: 'check php code style'
+author: 'Aram Kocharyan '
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'check-square'
+  color: 'blue'
