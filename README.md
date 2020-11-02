@@ -1,1 +1,2 @@
-# pm_php_cs_symphony
+This action is created to check php code based on PHP CS
+
